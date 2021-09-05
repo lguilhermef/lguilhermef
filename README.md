@@ -1,4 +1,4 @@
-### Hello! My name is Luís Guilherme Ferreira! 👋
+### Hello! My name is **Luís**! 👋
 
 - 🐂 I'm a proud co-founder of [Auroch](www.auroch.pt)
 - 🌱 I’m currently learning: **Solidity**
