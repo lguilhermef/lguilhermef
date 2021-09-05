@@ -1,6 +1,6 @@
 ### Hello! My name is **Luís**! 👋
 
-- 🐂 I'm a proud co-founder of [Auroch](www.auroch.pt)
+- 🐂 I'm a proud co-founder of <a href="www.auroch.pt">Auroch</a>
 - 🌱 I’m currently learning: **Solidity**
 - 🃏 Hobbies: 📖Reading 🏄‍♀️ Sports 🎸Music
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/lguilhermef/"><img alt="Luís Ferreira | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/></a>
