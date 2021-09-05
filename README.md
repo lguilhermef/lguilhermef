@@ -14,6 +14,8 @@
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity&logoColor=007396)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-000?&logo=Hibernate)
+![Camel](https://img.shields.io/badge/-Camel-000?&logo=Apache)
 ![C#](https://img.shields.io/badge/-C_Sharp-000?&logo=CSharp#&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -23,6 +25,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3#&logoColor=007396)
 ![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass#&logoColor=007396)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql)
+![GraphQL](https://img.shields.io/badge/-Graphql-000?&logo=Graphql)
 
 
 
