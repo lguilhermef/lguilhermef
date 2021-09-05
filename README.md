@@ -2,9 +2,8 @@
 
 - 🐂 I'm a proud co-founder of [Auroch](www.auroch.pt)
 - 🌱 I’m currently learning: **Solidity**
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/lguilhermef/" target="_blank"><img alt="Luís Ferreira | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
-
+- 🃏 Hobbies: 📖Reading 🏄‍♀️ Sports 🎸Music
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/lguilhermef/" target="_blank"><img alt="Luís Ferreira | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,8 +26,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=Postgresql)
 ![GraphQL](https://img.shields.io/badge/-Graphql-000?&logo=Graphql)
-
-
 
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lguilhermef&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=00000000"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lguilhermef&layout=compact&langs_count=5&theme=algolia&bg_color=00000000"/>
